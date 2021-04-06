@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Push Notification Example</string>
+    <string name="general_notification">General</string>
+</resources>
